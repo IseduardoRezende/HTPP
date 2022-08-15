@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTPP", "HTPP\HTPP.csproj", "{A0FC0D18-8CC6-4FED-B1E1-52946F11F2C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0FC0D18-8CC6-4FED-B1E1-52946F11F2C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0FC0D18-8CC6-4FED-B1E1-52946F11F2C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0FC0D18-8CC6-4FED-B1E1-52946F11F2C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0FC0D18-8CC6-4FED-B1E1-52946F11F2C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {320D3886-E650-4F83-8DAA-7B4C746C2ED1}
+	EndGlobalSection
+EndGlobal
